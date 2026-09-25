@@ -1,0 +1,10 @@
+id_magasin,nom_magasin,ville,region,surface_m2
+M01,Boutique Paris,Paris,Ile-de-France,642
+M02,Boutique Lyon,Lyon,Auvergne-Rhone-Alpes,853
+M03,Boutique Marseille,Marseille,PACA,460
+M04,Boutique Lille,Lille,Hauts-de-France,245
+M05,Boutique Bordeaux,Bordeaux,Nouvelle-Aquitaine,769
+M06,Boutique Nantes,Nantes,Pays de la Loire,611
+M07,Boutique Toulouse,Toulouse,Occitanie,666
+M08,Boutique Strasbourg,Strasbourg,Grand Est,195
+M99,Entrepot central,Orleans,Centre-Val de Loire,4200

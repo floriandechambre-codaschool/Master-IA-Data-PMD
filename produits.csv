@@ -1,0 +1,40 @@
+id_produit,libelle,categorie,sous_categorie,cout_achat
+P0001,Ordinateur portable modele 1,Informatique,Ordinateur portable,481.66
+P0002,Ordinateur portable modele 2,Informatique,Ordinateur portable,276.59
+P0003,Ordinateur portable modele 3,Informatique,Ordinateur portable,533.46
+P0004,Ecran modele 1,Informatique,Ecran,434.79
+P0005,Ecran modele 2,Informatique,Ecran,65.64
+P0006,Ecran modele 3,Informatique,Ecran,605.08
+P0007,Clavier modele 1,Informatique,Clavier,473.82
+P0008,Clavier modele 2,Informatique,Clavier,489.07
+P0009,Clavier modele 3,Informatique,Clavier,86.41
+P0010,Souris modele 1,Informatique,Souris,283.64
+P0011,Souris modele 2,Informatique,Souris,234.93
+P0012,Souris modele 3,Informatique,Souris,575.18
+P0013,Casque modele 1,Audio,Casque,402.05
+P0014,Casque modele 2,Audio,Casque,511.53
+P0015,Casque modele 3,Audio,Casque,279.37
+P0016,Enceinte modele 1,Audio,Enceinte,147.07
+P0017,Enceinte modele 2,Audio,Enceinte,347.41
+P0018,Enceinte modele 3,Audio,Enceinte,47.06
+P0019,Micro modele 1,Audio,Micro,514.51
+P0020,Micro modele 2,Audio,Micro,394.58
+P0021,Micro modele 3,Audio,Micro,471.95
+P0022,Bureau modele 1,Mobilier,Bureau,224.97
+P0023,Bureau modele 2,Mobilier,Bureau,
+P0024,Bureau modele 3,Mobilier,Bureau,554.59
+P0025,Chaise modele 1,Mobilier,Chaise,484.37
+P0026,Chaise modele 2,Mobilier,Chaise,127.12
+P0027,Chaise modele 3,Mobilier,Chaise,293.63
+P0028,Lampe modele 1,Mobilier,Lampe,34.81
+P0029,Lampe modele 2,Mobilier,Lampe,102.43
+P0030,Lampe modele 3,Mobilier,Lampe,426.03
+P0031,Sacoche modele 1,Accessoire,Sacoche,463.79
+P0032,Sacoche modele 2,Accessoire,Sacoche,600.12
+P0033,Sacoche modele 3,Accessoire,Sacoche,207.41
+P0034,Cable modele 1,Accessoire,Cable,234.72
+P0035,Cable modele 2,Accessoire,Cable,295.37
+P0036,Cable modele 3,Accessoire,Cable,123.96
+P0037,Adaptateur modele 1,Accessoire,Adaptateur,87.51
+P0038,Adaptateur modele 2,Accessoire,Adaptateur,299.13
+P0039,Adaptateur modele 3,Accessoire,Adaptateur,146.87
