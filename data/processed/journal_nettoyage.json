@@ -1,14 +1,16 @@
 {
   "lignes_initiales": 17609,
-  "prix_unitaire_non_numeriques": "1230",
+  "prix_unitaire_illisibles": 0,
   "normalisation_canal": "9 → 3 modalités",
   "normalisation_statut": "3 → 3 modalités",
   "normalisation_ville_livraison": "33 → 9 modalités",
-  "doublons_supprimes": "240",
-  "dates_invalides_supprimees": "13918",
-  "remises_nan_remplacees": "364",
-  "quantites_non_numeriques_supprimees": "0",
-  "quantites_negatives_supprimees": "5",
-  "montant_calcule": "3194",
-  "lignes_finales": 3446
+  "doublons_supprimes": 240,
+  "dates_manquantes_supprimees": 347,
+  "dates_illisibles_supprimees": 0,
+  "remises_manquantes_remplacees": 1874,
+  "quantites_non_numeriques_supprimees": 0,
+  "quantites_negatives_supprimees": 30,
+  "montants_non_calculables": 0,
+  "id_client_format_inhabituel": 336,
+  "lignes_finales": 16992
 }
